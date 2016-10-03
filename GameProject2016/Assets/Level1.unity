@@ -110,11 +110,10 @@ Transform:
   m_PrefabInternal: {fileID: 378736987}
   m_GameObject: {fileID: 41012392}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
+  
+  
+
   m_LocalPosition: {x: 0, y: 0, z: 12.3000002}
-=======
-  m_LocalPosition: {x: 0, y: 4.03000021, z: -7.71000004}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1080651234}
@@ -197,13 +196,10 @@ Transform:
 --- !u!1 &377674620
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
+
+  
   m_PrefabParentObject: {fileID: 155262, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 173314, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 377674621}
@@ -219,13 +215,8 @@ GameObject:
 --- !u!4 &377674621
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 446248, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 491114, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 377674620}
   m_LocalRotation: {x: -.99993062, y: 0, z: 0, w: .0117839165}
   m_LocalPosition: {x: 0, y: -5.41070022e-10, z: 18.2099991}
@@ -236,15 +227,9 @@ Transform:
 --- !u!23 &377674622
 MeshRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 2301820, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 2320680, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 377674620}
   m_Enabled: 1
   m_CastShadows: 1
@@ -267,7 +252,6 @@ MeshRenderer:
 --- !u!33 &377674623
 MeshFilter:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 3378654, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
@@ -320,14 +304,7 @@ Prefab:
   m_ParentPrefab: {fileID: 100100000, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &848211776
-=======
-  m_PrefabParentObject: {fileID: 3335490, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 377674620}
-  m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &750679716
->>>>>>> master:GameProject2016/Assets/Scene.unity
+
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 107414, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
@@ -434,13 +411,8 @@ GameObject:
 --- !u!4 &848211777
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 405816, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 471024, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 848211776}
   m_LocalRotation: {x: .707106888, y: 0, z: 0, w: .707106709}
   m_LocalPosition: {x: 0, y: -5.58639979e-09, z: -1.36399996}
@@ -451,15 +423,9 @@ Transform:
 --- !u!23 &848211778
 MeshRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 2315100, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 2307728, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 848211776}
   m_Enabled: 1
   m_CastShadows: 1
@@ -482,15 +448,9 @@ MeshRenderer:
 --- !u!135 &848211779
 SphereCollider:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 13510242, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 13534922, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 848211776}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -501,27 +461,16 @@ SphereCollider:
 --- !u!33 &848211780
 MeshFilter:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 3351354, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 3342452, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 848211776}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &869447490
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 109924, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 152356, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 869447491}
@@ -538,13 +487,8 @@ GameObject:
 --- !u!4 &869447491
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 433256, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 480934, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 869447490}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -.591000021}
@@ -555,15 +499,9 @@ Transform:
 --- !u!23 &869447492
 MeshRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 2355974, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 2344686, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 869447490}
   m_Enabled: 1
   m_CastShadows: 1
@@ -586,15 +524,9 @@ MeshRenderer:
 --- !u!65 &869447493
 BoxCollider:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 6514870, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 6535044, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 869447490}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -605,15 +537,9 @@ BoxCollider:
 --- !u!33 &869447494
 MeshFilter:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 3398260, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 3349608, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 869447490}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1080651233
@@ -725,13 +651,8 @@ MonoBehaviour:
 --- !u!1 &1326173282
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 139072, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 173556, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1326173283}
@@ -748,13 +669,8 @@ GameObject:
 --- !u!4 &1326173283
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 411282, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 471246, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1326173282}
   m_LocalRotation: {x: .707106829, y: 0, z: 0, w: .707106709}
   m_LocalPosition: {x: 0, y: -8.49409987e-10, z: -.529999971}
@@ -765,15 +681,9 @@ Transform:
 --- !u!23 &1326173284
 MeshRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 2383194, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 2305286, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1326173282}
   m_Enabled: 1
   m_CastShadows: 1
@@ -796,15 +706,9 @@ MeshRenderer:
 --- !u!136 &1326173285
 CapsuleCollider:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 13602648, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 13696504, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1326173282}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -816,37 +720,21 @@ CapsuleCollider:
 --- !u!33 &1326173286
 MeshFilter:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 3350524, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 3320314, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1326173282}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1524861514
 GameObject:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 160062, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 179586, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1524861515}
   - 54: {fileID: 1524861518}
   - 114: {fileID: 1524861516}
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
-=======
-  - 114: {fileID: 1524861519}
-  - 135: {fileID: 1524861517}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_Layer: 0
   m_Name: Ship
   m_TagString: Untagged
@@ -857,13 +745,8 @@ GameObject:
 --- !u!4 &1524861515
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 443556, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 437966, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1524861514}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -879,15 +762,9 @@ Transform:
 --- !u!114 &1524861516
 MonoBehaviour:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 11441718, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 11436870, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1524861514}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -895,7 +772,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 4
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   width: 0
   height: 0
 --- !u!1 &1607128964
@@ -903,52 +779,6 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 163454, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
---- !u!135 &1524861517
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1524861514}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 1
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!54 &1524861518
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1524861514}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: .0500000007
-  m_UseGravity: 0
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!114 &1524861519
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 11485570, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1524861514}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a7f1d96973e988e44a63477b307da23d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1 &1607128964
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 157578, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1607128965}
@@ -965,13 +795,8 @@ GameObject:
 --- !u!4 &1607128965
 Transform:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 412048, guid: 13f00d4137a136f4e82e758370fb1bd3, type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 490018, guid: 72bdc07808a48bb45863e154ef04aef8, type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1607128964}
   m_LocalRotation: {x: .707106948, y: 0, z: 0, w: .707106709}
   m_LocalPosition: {x: -.0179999992, y: -7.44850004e-09, z: .134000003}
@@ -982,15 +807,9 @@ Transform:
 --- !u!23 &1607128966
 MeshRenderer:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 2320344, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 2317912, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1607128964}
   m_Enabled: 1
   m_CastShadows: 1
@@ -1013,15 +832,9 @@ MeshRenderer:
 --- !u!135 &1607128967
 SphereCollider:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 13529834, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 13511086, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1607128964}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1032,15 +845,9 @@ SphereCollider:
 --- !u!33 &1607128968
 MeshFilter:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD:GameProject2016/Assets/Level1.unity
   m_PrefabParentObject: {fileID: 3383678, guid: 13f00d4137a136f4e82e758370fb1bd3,
     type: 2}
   m_PrefabInternal: {fileID: 378736987}
-=======
-  m_PrefabParentObject: {fileID: 3305622, guid: 72bdc07808a48bb45863e154ef04aef8,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
->>>>>>> master:GameProject2016/Assets/Scene.unity
   m_GameObject: {fileID: 1607128964}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1698170311
