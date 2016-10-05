@@ -4,7 +4,7 @@ using System.Collections;
 public class MoveForward : MonoBehaviour {
 
 	public static float speed;
-	public float maxspeed = 100.0f;
+	public float cruisespeed = 30.0f;
 
 	void Start(){
 		speed = 1;
@@ -12,7 +12,7 @@ public class MoveForward : MonoBehaviour {
 	}
 	// Update is called once per frame
 	void Update () {
-		if (speed < maxspeed) {
+		if (speed < cruisespeed) {
 			speed  += 0.1f;
 		}
 		transform.position += transform.forward*speed*Time.deltaTime;

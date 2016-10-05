@@ -2,20 +2,8 @@
 using System.Collections;
 
 public class FOV : MonoBehaviour {
-<<<<<<< HEAD
-	public float fov = 150f;
-	// Use this for initialization
 
-	
-	// Update is called once per frame
-	void Update () {
-		if (fov != 60f) {
-			fov -= 1;
-			Camera.main.fieldOfView = fov;
-		}
-	}
-}
-=======
+
 	public float fov = 90f;
 	public bool warp,startwarp = false;
 
@@ -52,4 +40,3 @@ public class FOV : MonoBehaviour {
 
 
 }
->>>>>>> f9a0990c42c7e179d0cfa1417419459b4f5b0f3c
