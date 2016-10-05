@@ -46,7 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Materials\New Text Document.cs" />
      <Compile Include="Assets\Scripts\CillisonScript.cs" />
      <Compile Include="Assets\Scripts\FOV.cs" />
      <Compile Include="Assets\Scripts\LevelControl.cs" />
