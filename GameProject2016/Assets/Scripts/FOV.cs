@@ -3,7 +3,10 @@ using System.Collections;
 
 public class FOV : MonoBehaviour {
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3b1730ba744f9d7bf2dff90231bf0f64e4ce60bf
 	public float fov = 90f;
 	public bool warp,startwarp = false;
 
@@ -40,3 +43,7 @@ public class FOV : MonoBehaviour {
 
 
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3b1730ba744f9d7bf2dff90231bf0f64e4ce60bf
