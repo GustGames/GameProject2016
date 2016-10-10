@@ -12,6 +12,7 @@ GameObject:
   - 136: {fileID: 13685062}
   - 23: {fileID: 2323768}
   - 114: {fileID: 11406138}
+  - 54: {fileID: 5451104}
   m_Layer: 0
   m_Name: SpeedRing
   m_TagString: Untagged
@@ -27,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 125984}
   m_LocalRotation: {x: -.707107067, y: 0, z: 0, w: .70710659}
   m_LocalPosition: {x: .0700000003, y: .200000003, z: 39.0400009}
-  m_LocalScale: {x: 3.61104727, y: .191094011, z: 3.61104488}
+  m_LocalScale: {x: 6.30000019, y: .191094011, z: 6.30000019}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -62,6 +63,21 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 125984}
   m_Mesh: {fileID: 10206, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!54 &5451104
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 125984}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!114 &11406138
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -92,7 +108,19 @@ Prefab:
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
-    m_Modifications: []
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalScale.x
+      value: 6.30000019
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_LocalScale.z
+      value: 6.30000019
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 125984}
