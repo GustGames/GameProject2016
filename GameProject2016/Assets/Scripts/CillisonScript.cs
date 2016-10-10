@@ -8,5 +8,12 @@ public class CillisonScript : MonoBehaviour {
 		if (collision.gameObject.name == "wall") {
 			Destroy (collision.gameObject);
 		}
+
+		if (collision.gameObject.name == "SpeedRing(Clone)") {
+			Destroy (collision.gameObject);
+			Debug.Log ("SPEED BOOST");
+			FOV.SpeedBoost();
+			MoveForward.SpeedRingBoost();
+		}
 	}
 }

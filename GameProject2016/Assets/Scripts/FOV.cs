@@ -1,8 +1,7 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class FOV : MonoBehaviour {
-
 
 	public float fov = 90f;
 	public bool warp,startwarp = false;
@@ -13,10 +12,6 @@ public class FOV : MonoBehaviour {
 		Camera.main.fieldOfView = 60;		 
 		warp = false;
 		startwarp = false;
-
-
-
-
 	}
 	// Update is called once per frame
 	void Update () {
@@ -25,18 +20,22 @@ public class FOV : MonoBehaviour {
 		}
 		if (warp == true) {
 			Warp ();
+		} else if(Camera.main.fieldOfView > 60){
+			Camera.main.fieldOfView -= 0.01f;	//Restores the FOV back to its original value when it's above it. (Like when SpeedBoost is called.)
 		}
-		if (Camera.main.fieldOfView >= 350) {
+		if (Camera.main.fieldOfView >= 175) {
 			int i = Application.loadedLevel;
 			Application.LoadLevel(i + 1);
 			}
-
 		}
 
 
 	void Warp(){
-		Camera.main.fieldOfView = Mathf.Lerp (Camera.main.fieldOfView, 400, 1 * Time.deltaTime);		 
+		Camera.main.fieldOfView = Mathf.Lerp (Camera.main.fieldOfView, 220, 1 * Time.deltaTime);		 
 	}
 
-
+	public static void SpeedBoost()
+	{
+		Camera.main.fieldOfView += 5;
+	}
 }
